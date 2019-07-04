@@ -1,0 +1,12 @@
+Rout/run_clustering_sce_filteredExpr10_Koh_PCAKmeans.Rout:Ncells  4498339 240.3    8761710 468.0         NA  5027468 268.5
+Rout/run_clustering_sce_filteredExpr10_Koh_PCAKmeans.Rout:Vcells 16166500 123.4   36865480 281.3      16384 36863399 281.3
+Rout/run_clustering_sce_filteredExpr10_Koh_RtsneKmeans.Rout:Ncells  4556320 243.4    8761710 468.0         NA  5183130 276.9
+Rout/run_clustering_sce_filteredExpr10_Koh_RtsneKmeans.Rout:Vcells 16270137 124.2   44468219 339.3      16384 42379655 323.4
+Rout/run_clustering_sce_filteredHVG10_Koh_PCAKmeans.Rout:Ncells  4498342 240.3    8761710 468.0         NA  5027471 268.5
+Rout/run_clustering_sce_filteredHVG10_Koh_PCAKmeans.Rout:Vcells 16167033 123.4   36866120 281.3      16384 36866057 281.3
+Rout/run_clustering_sce_filteredHVG10_Koh_RtsneKmeans.Rout:Ncells  4556323 243.4    8761710 468.0         NA  5183132 276.9
+Rout/run_clustering_sce_filteredHVG10_Koh_RtsneKmeans.Rout:Vcells 16270670 124.2   44468986 339.3      16384 42380188 323.4
+Rout/run_clustering_sce_filteredM3Drop10_Koh_PCAKmeans.Rout:Ncells  4498342 240.3    8761710 468.0         NA  5027471 268.5
+Rout/run_clustering_sce_filteredM3Drop10_Koh_PCAKmeans.Rout:Vcells 16167041 123.4   36866129 281.3      16384 36866065 281.3
+Rout/run_clustering_sce_filteredM3Drop10_Koh_RtsneKmeans.Rout:Ncells  4556323 243.4    8761710 468.0         NA  5183132 276.9
+Rout/run_clustering_sce_filteredM3Drop10_Koh_RtsneKmeans.Rout:Vcells 16270678 124.2   44468998 339.3      16384 42380196 323.4
